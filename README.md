@@ -12,6 +12,6 @@ Wrote custom middleware functions to streamline request handling and data proces
 
 **Technologies Used**
 
-Node.js
-Express.js
-Middleware Packages 
+- Node.js
+- Express.js
+- Middleware Packages 
